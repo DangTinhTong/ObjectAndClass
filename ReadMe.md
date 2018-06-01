@@ -1,0 +1,2 @@
+- Have to try hard
+- Use Object and Class
